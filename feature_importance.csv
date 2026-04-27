@@ -1,0 +1,16 @@
+Feature,Importance
+cat__weaptype1_txt_Explosives,0.2920899998103759
+cat__weaptype1_txt_Firearms,0.16476467725795357
+cat__weaptype1_txt_Incendiary,0.1262908634021935
+cat__weaptype1_txt_Unknown,0.07697558468514835
+cat__country_txt_United Kingdom,0.03071699895033807
+cat__targtype1_txt_Business,0.019512795763644418
+cat__country_txt_United States,0.017252599782131738
+cat__targtype1_txt_Private Citizens & Property,0.016013286488597723
+cat__targtype1_txt_Government (General),0.013579596912309689
+cat__country_txt_Nicaragua,0.011383268161745683
+cat__targtype1_txt_Police,0.009619870755726765
+cat__targtype1_txt_Military,0.009501336536633327
+cat__country_txt_Italy,0.009029178357476794
+cat__targtype1_txt_Airports & Aircraft,0.00872300408045617
+cat__country_txt_Colombia,0.008162548643024422

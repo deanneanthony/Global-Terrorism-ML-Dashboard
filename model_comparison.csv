@@ -1,0 +1,5 @@
+Model,Accuracy %
+Random Forest,81.61
+Decision Tree,81.1
+Gradient Boosting,80.53
+Logistic Regression,80.48
